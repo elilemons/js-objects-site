@@ -13,9 +13,7 @@ const allistair = {
     model: 'Q50',
     year: '2018'
 };
-// uncomment to use optimized function
-// createListFromObjectProperties('car', allistair);
-// createListFromObjectProperties('house', schmittysPad);
+
 for (let property of Object.keys(allistair)) {
     let carContainer = document.getElementById('car'),
         carPropertyListItem = document.createElement('li');
