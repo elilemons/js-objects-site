@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6,
     font-family: 'Roboto Mono', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    border-bottom: 10px solid black;
+    border-bottom: 10px solid red;
 }
 h1 { font-size: 2em; }
 h2 { font-size: 1.5em; }
